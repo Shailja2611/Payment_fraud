@@ -1,0 +1,4 @@
+model/optimized_model.pkl
+model/preprocessor.pkl
+model/knn_model.pkl
+model/optimized_preprocessor.pkl
